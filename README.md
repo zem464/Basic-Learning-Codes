@@ -16,10 +16,22 @@ This project contains small Python programs focused on fundamental concepts, inc
 │   ├── students_gwa_in_txt.py
 │   └── multiple_lines_in_txt.py
 ├── Abstraction_Encapsulation/
-│   ├── car.py
-│   ├── fan.py
-│   ├── pet.py
-│   └── tv.py
+│   ├── Car
+│   │   ├── class_car.py
+│   │   ├── Car_README.md
+│   │   └── test_car.py
+│   ├── Fan
+│   │   ├── class_fan.py
+│   │   ├── Fan_README.md
+│   │   └── test_fan.py
+│   ├── Pet
+│   │   ├── class_pet.py
+│   │   ├── Pet_README.md
+│   │   └── test_pet.py
+│   └── TV
+│       ├── class_tv.py
+│       ├── TV_README.md
+│       └── test_tv.py
 └── Data_Structures/
     ├── searching_algorithms.py
     └── merged_linked_lists.py
