@@ -7,10 +7,22 @@ This repository is a simple collection of beginner-friendly Python exercises I c
 This project contains small Python programs focused on fundamental concepts, including:
 
 - name_and_dream.py — Printing personal information such as name and dream
-- strings.py — Working with Python strings
-- even_odd.py — Checking even and odd numbers
-- student_gwa.py — Processing student GWA data from text files
-- multiple_lines.py — Reading and handling multiple lines of text
+├── Python_Strings/
+│   ├── encryption.py
+│   ├── decryption.py
+│   └── vigenere_cipher.py
+├── Python_with_txt_files/
+│   ├── even_odd_in_txt.py
+│   ├── students_gwa_in_txt.py
+│   └── multiple_lines_in_txt.py
+├── Abstraction_Encapsulation/
+│   ├── car.py
+│   ├── fan.py
+│   ├── pet.py
+│   └── tv.py
+└── Data_Structures/
+    ├── searching_algorithms.py
+    └── merged_linked_lists.py
 
 ## Purpose
 
