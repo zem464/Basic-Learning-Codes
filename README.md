@@ -7,7 +7,6 @@ This repository is a simple collection of beginner-friendly Python exercises I c
 This project contains small Python programs focused on fundamental concepts, including:
 
 - name_and_dream.py — Printing personal information such as name and dream
-```
 ├── Python_Strings/
 │   ├── encryption.py
 │   ├── decryption.py
@@ -36,7 +35,6 @@ This project contains small Python programs focused on fundamental concepts, inc
 └── Data_Structures/
     ├── searching_algorithms.py
     └── merged_linked_lists.py
-```
 
 ## Purpose
 
