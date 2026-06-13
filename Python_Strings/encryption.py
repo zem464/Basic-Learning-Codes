@@ -8,22 +8,23 @@ text_output = ""
 
 # Check if the input has the variables and change it into corresponding symbols
 for i in range(len(text_input)):
-# If there is 'a', change to '*'
-    if text_input[i].lower() == 'a':
+
+    if text_input[i].lower() == 'a':    # If there is 'a', change to '*'
         text_output += '*'
-# If there is 'e', change to '&'
-    elif text_input[i].lower() == 'e':
+
+    elif text_input[i].lower() == 'e':  # If there is 'e', change to '&'
         text_output += '&'
-# If there is 'i', change to '#'
-    elif text_input[i].lower() == 'i':
+
+    elif text_input[i].lower() == 'i':  # If there is 'i', change to '#'
         text_output += '#'
-# If there is 'o', change to '+'
-    elif text_input[i].lower() == 'o':
+
+    elif text_input[i].lower() == 'o':  # If there is 'o', change to '+'
         text_output += '+'
-# If there is 'u', change to '!'
-    elif text_input[i].lower() == 'u':
+
+    elif text_input[i].lower() == 'u':  # If there is 'u', change to '!'
         text_output += '!'
     else:
         text_output += text_input[i]
+        
 # Print the encrypted input
 print(text_output)
