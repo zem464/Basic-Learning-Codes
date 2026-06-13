@@ -33,8 +33,8 @@ This project contains small Python programs focused on fundamental concepts, inc
 │       ├── TV_README.md
 │       └── test_tv.py
 └── Data_Structures/
-    ├── searching_algorithms.py
-    └── merged_linked_lists.py
+    ├── Searching_Algo
+    └── Linked_Lists
 
 ## Purpose
 
