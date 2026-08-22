@@ -1,9 +1,9 @@
 class TV:
     # Constructor: initialize the TV's starting state
     def __init__(self, channel=1, volume=1):
-        self.channel = channel      # current TV channel
-        self.volume = volume        # current volume level
-        self.is_on = False          # TV is off by default
+        self.channel = channel  # current TV channel
+        self.volume = volume    # current volume level
+        self.is_on = False      # TV is off by default
 
     # Turn the TV on
     def turn_on(self):
